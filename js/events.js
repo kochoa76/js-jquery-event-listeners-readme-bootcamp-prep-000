@@ -16,7 +16,6 @@ function pressIt() {
     if (e.which == 71) {
       alert("you pressed 'g'!")
     }
-    return
   })
 )
 }
